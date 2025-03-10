@@ -7,7 +7,7 @@ A **curated collection** of weblinks for innovative web applications built using
 
 ## What is Vibe Coding?
 
-_Vibe coding_ is all about blending creativity with technology – building webapps that not only work flawlessly but also capture a unique, energetic aesthetic. Whether you’re pushing boundaries with experimental UI/UX, integrating AI elements, or simply adding a creative twist to conventional code, this repo is your go-to showcase.
+_Vibe Coding_ is an AI-powered programming method where users describe what they want in natural language, and AI generates the code. Introduced by Andrej Karpathy in February 2025, it’s designed to be accessible for non-experts and excels at quick prototyping with tools like Replit Agent and Cursor Composer. ~~However, experts caution about its reliability for professional use due to potential bugs and maintenance challenges.~~
 
 ---
 
