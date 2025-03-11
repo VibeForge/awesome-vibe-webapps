@@ -41,7 +41,13 @@ _Vibe Coding_ is an AI-powered programming method where users describe what they
 
 ### Simulation
 
-- [fly.pieter.com](https://fly.pieter.com/) by [@levelsio](https://x.com/levelsio) - A fun free-to-play MMO flight sim *(Tags: flight, simulation, cursor, threejs)* - 2025-03-11
+- [fly.pieter.com](https://fly.pieter.com/) by [levelsio](https://x.com/levelsio) - A fun free-to-play MMO flight sim *(Tags: flight, simulation, cursor, threejs)* - 2025-03-11
+
+- [Land the Booster v2](https://land-the-booster.s13k.dev/v2.html) by [s13k](https://x.com/s13k_) - Land a SpaceX booster into the 'chopsticks'—no pressure *(Tags: SpaceX, booster, landing)* - 2025-03-11
+
+- [Million Dollar Metropolis](https://milliondollarmetropolis.com/) by [Brandon](https://x.com/brandon_xyzw) - Explore an interactive cyberpunk simulation, financially powered by real companies *(Tags: Akihabara, virtual city, advertisement, cursor, threejs)* - 2025-03-11
+
+- [WW2 Dogfight Arena](https://fly.zullo.fun/) by [Nicolas Zullo](https://x.com/NicolasZu) - WW2 Dogfight Arena with awesome plane, effects, and controls *(Tags: WW2, planes, dogfight, explosion, hit impacts, smoke, free-fall, cursor)* - 2025-03-11
 
 ### Adventure
 
@@ -61,7 +67,7 @@ _Vibe Coding_ is an AI-powered programming method where users describe what they
 
 ### Racing
 
-- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+- [PolyTrack](https://beta-polytrack.kodub.com/) by [Kodub](https://x.com/KodubDev) - Fun low-poly racing game *(Tags: threejs, gamedev, indiedev)* - 2025-03-11
 
 ### Action 
 
