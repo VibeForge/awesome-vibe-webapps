@@ -1,0 +1,1 @@
+# Awesome-vibe-webapps assets
