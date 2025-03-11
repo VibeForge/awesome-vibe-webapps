@@ -1,6 +1,6 @@
 # Contributing to VibeForge awesome-vibe-webapps
 
-Thank you for your interest in contributing to the **VibeForge awesome-vibe-webapps** repository! This project is a curated collection of web applications built with creative, experimental "vibe-coding" approaches, and it thrives on community contributions. We welcome you to share your own webapp or any inspiring webapp you've discovered, as long as it embodies creativity and a unique vibe.
+Thank you for your interest in contributing to the **VibeForge awesome-vibe-webapps** repository! This project is a curated collection of web applications built with creative, experimental "vibe coding" approaches, and it thrives on community contributions. We welcome you to share your own webapp or any inspiring webapp you've discovered, as long as it embodies creativity and a unique vibe.
 
 ## How to Contribute
 
@@ -11,7 +11,7 @@ Click the "Fork" button at the top right of this repository page to create your 
 Clone your fork to your local machine (or use GitHub's web editor if you prefer not to use the command line). Then create a new branch for your contribution. For example, you might name it `add-my-webapp` or `add-<webapp-name>`. Creating a separate branch makes it easier to manage your changes and submit a focused pull request.
 
 **3. Add Your Webapp Entry**  
-Open the repository’s main listing file (usually `README.md` or a dedicated list file) and add your webapp details following the **Formatting Guidelines** below. Make sure the webapp you are adding aligns with the vibe-coding spirit (i.e., it's creative, experimental, and built enterely using vibe-coding AI tools, e.g, Cursor Composer, Windsurf, Manus, etc.). Include all the required fields (title, description, link, etc.) in the proper format. If you're unsure, you can copy the format of an existing entry and modify it with your webapp's information.
+Open the repository’s main listing file (usually `README.md` or a dedicated list file) and add your webapp details following the **Formatting Guidelines** below. Make sure the webapp you are adding aligns with the vibe coding spirit (i.e., it's creative, experimental, and built enterely using vibe coding AI tools, e.g, Cursor Composer, Windsurf, Manus, etc.). Include all the required fields (title, description, link, etc.) in the proper format. If you're unsure, you can copy the format of an existing entry and modify it with your webapp's information.
 
 **4. Commit Your Changes**  
 After adding your entry, commit your changes. Use a clear and descriptive commit message, such as `Add [WebApp Name]` or `Add [WebApp Name] to list`. This helps maintainers understand the purpose of the commit at a glance. You can provide more detail in the commit description if necessary (for example, why the webapp is useful or any notable details).
