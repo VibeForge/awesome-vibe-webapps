@@ -1,6 +1,6 @@
 # Awesome Vibe Coded Webapps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A **curated collection** of trending webapps (games, etc.) built using vibe coding.  
+A **curated collection** of trending webapps (games, productivity, analysis, etc.) built using vibe coding.  
 *Share your creative projects, explore inspiring work, and join a community of forward-thinking developers.*
 
 ---
@@ -66,7 +66,7 @@ _Vibe Coding_ is an AI-powered programming method where users describe what they
 - **[App Name](https://example.com):** A brief description of what makes it uniquely “vibe coded.”
 - **[Another App](https://example.com):** A creative twist on traditional web development.
 
-## Feature Apps (data science, productivity, market analysis, etc.) 
+## Feature Apps (productivity, analysis, etc.) 
 
 - ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
 
