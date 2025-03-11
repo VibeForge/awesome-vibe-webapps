@@ -33,7 +33,7 @@ _Vibe Coding_ is an AI-powered programming method where users describe what they
 
 ### RPG
 
-- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+- [Summer Afternoon](https://summer-afternoon.vlucendo.com) by [Vicente Lucendo](https://x.com/vlucendo) - An environment inspired by those calm summer days where life just passes by... ☀️ *(Tags: caml, summer days, threejs, javascript, webgl, [@sidefx](https://x.com/sidefx), houdini)* - 2025-03-11
 
 ### Sports
 
