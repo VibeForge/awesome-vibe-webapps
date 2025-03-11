@@ -50,9 +50,11 @@ To keep the list organized and consistent, please follow these formatting rules 
   - Include 1-3 relevant tags that give readers a quick idea of what to expect.  
   - Format: list the tags in parentheses at the end of the description, each separated by a comma. For example: *(Tags: music, creative, chill vibes)*.
 
+- **Release date**: A release date for your webapp on this platform, e.g. `2025-03-11`
+
 **Example of a well-formatted entry:**  
 ```markdown
-- [My Awesome App](https://myawesomeapp.example) - A fun webapp that plays chill music while you browse art. *(Tags: music, creative, chill vibes)*
+- [My Awesome App](https://myawesomeapp.example) - A fun webapp that plays chill music while you browse art. *(Tags: music, creative, chill vibes)* - 2025-03-11
 ```
 
 In this example:  
