@@ -1,6 +1,6 @@
-# Awesome Vibe Webapps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/VibeForge/awesome-vibe-webapps)
+# Awesome Vibe Webapps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A **curated collection** of weblinks for innovative web applications built using vibe coding techniques.  
+A **curated collection** of trending web apps built using vibe coding techniques.  
 *Share your creative projects, explore inspiring work, and join a community of forward-thinking developers.*
 
 ---
