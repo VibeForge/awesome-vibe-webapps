@@ -41,7 +41,7 @@ _Vibe Coding_ is an AI-powered programming method where users describe what they
 
 ### Simulation
 
-- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+- [fly.pieter.com](https://fly.pieter.com/) by [@levelsio](https://x.com/levelsio) - A fun free-to-play MMO flight sim *(Tags: flight, simulation, cursor, threejs)* - 2025-03-11
 
 ### Adventure
 
