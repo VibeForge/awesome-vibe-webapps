@@ -23,7 +23,45 @@ _Vibe Coding_ is an AI-powered programming method where users describe what they
 
 ---
 
-## Featured Webapps
+## Featured Games
+
+### RPG
+
+- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+
+### Sports
+
+- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+
+### Simulation
+
+- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+
+### Adventure
+
+- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+
+### Strategy 
+
+- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+
+### Platformer
+
+- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+
+### Shooter
+
+- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+
+### Racing
+
+- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+
+### Action 
+
+- ** No contributions yet here - [Add yours](CONTRIBUTING.md) **
+
+### Puzzle
 
 - **[App Name](https://example.com):** A brief description of what makes it uniquely “vibe coded.”
 - **[Another App](https://example.com):** A creative twist on traditional web development.
