@@ -75,6 +75,8 @@ _Vibe Coding_ is an AI-powered programming method where users describe what they
 
 ### Puzzle
 
+- [Crowd Pick](https://noillirk.best/#practice) by [noillirkbest](https://github.com/liuzhen264) - Guess which of four answers would rank first across seven untimed prompts, with editorial ranks revealed after each pick. *(Tags: puzzle, trivia, Codex)* - 2026-11-19
+
 - **[App Name](https://example.com):** A brief description of what makes it uniquely “vibe coded.”
 - **[Another App](https://example.com):** A creative twist on traditional web development.
 
